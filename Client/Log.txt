@@ -1,0 +1,371 @@
+**************************************************************************************************************
+The client entered correct IP "127.0.0.1" to server's IP field and released "Connect" button. Date: Fri Oct 22 2021. Time: 02:53:13
+The client entered correct port "1033" to server's port field and released "Connect" button. Date: Fri Oct 22 2021. Time: 02:53:13
+The client successfully connected to the server. Date: Fri Oct 22 2021. Time: 02:53:13
+The client has been disconnected from the server. Date: Fri Oct 22 2021. Time: 02:53:23
+The client exited. Date: Fri Oct 22 2021. Time: 02:53:23
+**************************************************************************************************************
+**************************************************************************************************************
+The client entered correct IP "127.0.0.1" to server's IP field and released "Connect" button. Date: Fri Oct 22 2021. Time: 02:56:02
+The client entered correct port "1031" to server's port field and released "Connect" button. Date: Fri Oct 22 2021. Time: 02:56:02
+Connection failed. The client did not connected to the server. Date: Fri Oct 22 2021. Time: 02:56:04
+The client entered correct IP "127.0.0.1" to server's IP field and released "Connect" button. Date: Fri Oct 22 2021. Time: 02:56:08
+The client entered correct port "1032" to server's port field and released "Connect" button. Date: Fri Oct 22 2021. Time: 02:56:08
+Connection failed. The client did not connected to the server. Date: Fri Oct 22 2021. Time: 02:56:10
+The client entered incorrect IP "127.0.0" to server's IP field and released "Connect" button. Date: Fri Oct 22 2021. Time: 02:56:18
+The client entered correct IP "127.0.0" to server's IP field and released "Connect" button. Date: Fri Oct 22 2021. Time: 02:56:18
+The client entered correct port "1033" to server's port field and released "Connect" button. Date: Fri Oct 22 2021. Time: 02:56:18
+Connection failed. The client did not connected to the server. Date: Fri Oct 22 2021. Time: 02:56:39
+The client has been disconnected from the server. Date: Fri Oct 22 2021. Time: 03:01:32
+The client exited. Date: Fri Oct 22 2021. Time: 03:01:32
+**************************************************************************************************************
+**************************************************************************************************************
+The client entered incorrect IP "127.0.0" to server's IP field and released "Connect" button. Date: Fri Oct 22 2021. Time: 03:02:05
+The client entered correct IP "127.0.0" to server's IP field and released "Connect" button. Date: Fri Oct 22 2021. Time: 03:02:05
+The client entered correct port "1033" to server's port field and released "Connect" button. Date: Fri Oct 22 2021. Time: 03:02:05
+Connection failed. The client did not connected to the server. Date: Fri Oct 22 2021. Time: 03:02:26
+The client has been disconnected from the server. Date: Fri Oct 22 2021. Time: 03:02:29
+The client exited. Date: Fri Oct 22 2021. Time: 03:02:29
+**************************************************************************************************************
+**************************************************************************************************************
+The client entered nothing to server's port field and released "Connect" button. Date: Fri Oct 22 2021. Time: 03:04:10
+The client entered incorrect IP "127.0.0" to server's IP field and released "Connect" button. Date: Fri Oct 22 2021. Time: 03:04:10
+The client entered correct IP "127.0.0" to server's IP field and released "Connect" button. Date: Fri Oct 22 2021. Time: 03:04:10
+The client entered incorrect IP "127.0.0" to server's IP field and released "Connect" button. Date: Fri Oct 22 2021. Time: 03:04:15
+The client entered correct IP "127.0.0" to server's IP field and released "Connect" button. Date: Fri Oct 22 2021. Time: 03:04:15
+The client entered correct port "1033" to server's port field and released "Connect" button. Date: Fri Oct 22 2021. Time: 03:04:15
+Connection failed. The client did not connected to the server. Date: Fri Oct 22 2021. Time: 03:04:36
+The client has been disconnected from the server. Date: Fri Oct 22 2021. Time: 03:04:39
+The client exited. Date: Fri Oct 22 2021. Time: 03:04:39
+**************************************************************************************************************
+**************************************************************************************************************
+The client entered incorrect IP "127.0.0" to server's IP field and released "Connect" button. Date: Fri Oct 22 2021. Time: 03:11:47
+The client entered correct IP "127.0.0" to server's IP field and released "Connect" button. Date: Fri Oct 22 2021. Time: 03:11:47
+The client entered correct port "1033" to server's port field and released "Connect" button. Date: Fri Oct 22 2021. Time: 03:11:47
+Connection failed. The client did not connected to the server. Date: Fri Oct 22 2021. Time: 03:12:08
+The client has been disconnected from the server. Date: Fri Oct 22 2021. Time: 03:12:13
+The client exited. Date: Fri Oct 22 2021. Time: 03:12:13
+**************************************************************************************************************
+**************************************************************************************************************
+The client entered correct IP "127.0.0.1" to server's IP field and released "Connect" button. Date: Fri Oct 22 2021. Time: 03:13:33
+The client entered correct port "1033" to server's port field and released "Connect" button. Date: Fri Oct 22 2021. Time: 03:13:33
+Connection failed. The client did not connected to the server. Date: Fri Oct 22 2021. Time: 03:13:35
+The client has been disconnected from the server. Date: Fri Oct 22 2021. Time: 03:13:43
+The client exited. Date: Fri Oct 22 2021. Time: 03:13:43
+**************************************************************************************************************
+**************************************************************************************************************
+The client entered incorrect IP "127.0.0" to server's IP field and released "Connect" button. Date: Fri Oct 22 2021. Time: 03:18:33
+The client entered correct port "1033" to server's port field and released "Connect" button. Date: Fri Oct 22 2021. Time: 03:18:33
+The client entered incorrect IP "127.0.0." to server's IP field and released "Connect" button. Date: Fri Oct 22 2021. Time: 03:18:38
+The client entered correct IP "127.0.0." to server's IP field and released "Connect" button. Date: Fri Oct 22 2021. Time: 03:18:38
+The client entered correct port "1033" to server's port field and released "Connect" button. Date: Fri Oct 22 2021. Time: 03:18:38
+Connection failed. The client did not connected to the server. Date: Fri Oct 22 2021. Time: 03:18:38
+The client entered incorrect IP "127.0.0." to server's IP field and released "Connect" button. Date: Fri Oct 22 2021. Time: 03:18:43
+The client entered correct IP "127.0.0." to server's IP field and released "Connect" button. Date: Fri Oct 22 2021. Time: 03:18:43
+The client entered correct port "1033" to server's port field and released "Connect" button. Date: Fri Oct 22 2021. Time: 03:18:43
+Connection failed. The client did not connected to the server. Date: Fri Oct 22 2021. Time: 03:18:43
+The client entered incorrect IP "127.0.0." to server's IP field and released "Connect" button. Date: Fri Oct 22 2021. Time: 03:18:46
+The client entered correct IP "127.0.0." to server's IP field and released "Connect" button. Date: Fri Oct 22 2021. Time: 03:18:46
+The client entered correct port "1033" to server's port field and released "Connect" button. Date: Fri Oct 22 2021. Time: 03:18:46
+Connection failed. The client did not connected to the server. Date: Fri Oct 22 2021. Time: 03:18:46
+The client has been disconnected from the server. Date: Fri Oct 22 2021. Time: 03:21:29
+The client exited. Date: Fri Oct 22 2021. Time: 03:21:29
+**************************************************************************************************************
+**************************************************************************************************************
+The client entered incorrect IP "127.0.0." to server's IP field and released "Connect" button. Date: Fri Oct 22 2021. Time: 03:22:35
+The client entered correct port "1033" to server's port field and released "Connect" button. Date: Fri Oct 22 2021. Time: 03:22:35
+The client entered correct IP "127.0.0.1" to server's IP field and released "Connect" button. Date: Fri Oct 22 2021. Time: 03:22:42
+The client entered correct port "1033" to server's port field and released "Connect" button. Date: Fri Oct 22 2021. Time: 03:22:42
+The client successfully connected to the server. Date: Fri Oct 22 2021. Time: 03:22:42
+The client entered word "One" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 03:23:00
+The client entered word "Two" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 03:23:04
+The client entered word "Three" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 03:23:08
+The client entered word "Four" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 03:23:50
+The client entered word "Five" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 03:23:54
+The client has been disconnected from the server. Date: Fri Oct 22 2021. Time: 03:23:57
+The client entered correct IP "127.0.0.1" to server's IP field and released "Connect" button. Date: Fri Oct 22 2021. Time: 03:24:11
+The client entered correct port "1033" to server's port field and released "Connect" button. Date: Fri Oct 22 2021. Time: 03:24:11
+Connection failed. The client did not connected to the server. Date: Fri Oct 22 2021. Time: 03:24:13
+The client entered correct IP "127.0.0.1" to server's IP field and released "Connect" button. Date: Fri Oct 22 2021. Time: 03:24:34
+The client entered correct port "1033" to server's port field and released "Connect" button. Date: Fri Oct 22 2021. Time: 03:24:34
+The client successfully connected to the server. Date: Fri Oct 22 2021. Time: 03:24:34
+The client entered word "One" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 03:24:42
+The client entered word "Two" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 03:24:46
+The client entered word "Three" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 03:24:49
+The client has been disconnected from the server. Date: Fri Oct 22 2021. Time: 03:24:54
+The client entered correct IP "127.0.0.1" to server's IP field and released "Connect" button. Date: Fri Oct 22 2021. Time: 03:25:30
+The client entered correct port "1033" to server's port field and released "Connect" button. Date: Fri Oct 22 2021. Time: 03:25:30
+The client successfully connected to the server. Date: Fri Oct 22 2021. Time: 03:25:30
+The client entered word "One" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 03:25:37
+The client entered word "Two" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 03:25:44
+The client entered word "Three" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 03:25:50
+The client has been disconnected from the server. Date: Fri Oct 22 2021. Time: 03:26:00
+The client has been disconnected from the server. Date: Fri Oct 22 2021. Time: 03:26:10
+The client exited. Date: Fri Oct 22 2021. Time: 03:26:10
+**************************************************************************************************************
+**************************************************************************************************************
+The client entered nothing to server's IP field and released "Connect" button. Date: Fri Oct 22 2021. Time: 03:35:41
+The client entered nothing to server's port field and released "Connect" button. Date: Fri Oct 22 2021. Time: 03:35:41
+The client entered correct IP "127.0.0.1" to server's IP field and released "Connect" button. Date: Fri Oct 22 2021. Time: 03:35:47
+The client entered correct port "1033" to server's port field and released "Connect" button. Date: Fri Oct 22 2021. Time: 03:35:47
+The client successfully connected to the server. Date: Fri Oct 22 2021. Time: 03:35:47
+The client entered word "One" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 03:35:52
+The client received translating word "One" as "AAA" from the server. Date: Fri Oct 22 2021. Time: 03:35:52
+The client entered word "Two" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 03:35:56
+The client received translating word "Two" as "KKK" from the server. Date: Fri Oct 22 2021. Time: 03:35:56
+The client entered word "Three" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 03:36:00
+The client received translating word "Three" as "LLL" from the server. Date: Fri Oct 22 2021. Time: 03:36:00
+The client has been disconnected from the server. Date: Fri Oct 22 2021. Time: 03:36:03
+The client has been disconnected from the server. Date: Fri Oct 22 2021. Time: 03:36:24
+The client exited. Date: Fri Oct 22 2021. Time: 03:36:24
+**************************************************************************************************************
+**************************************************************************************************************
+The client entered correct IP "127.0.0.1" to server's IP field and released "Connect" button. Date: Fri Oct 22 2021. Time: 03:40:14
+The client entered correct port "1033" to server's port field and released "Connect" button. Date: Fri Oct 22 2021. Time: 03:40:14
+The client successfully connected to the server. Date: Fri Oct 22 2021. Time: 03:40:14
+The client entered word "One" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 03:40:29
+The client received translating word "One" as "AAA" from the server. Date: Fri Oct 22 2021. Time: 03:40:29
+The client entered word "Two" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 03:40:42
+The client received translating word "Two" as "KKK" from the server. Date: Fri Oct 22 2021. Time: 03:40:42
+The client entered word "Three" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 03:40:54
+The client received translating word "Three" as "LLL" from the server. Date: Fri Oct 22 2021. Time: 03:40:54
+The client has been disconnected from the server. Date: Fri Oct 22 2021. Time: 03:40:56
+The client exited. Date: Fri Oct 22 2021. Time: 03:41:05
+**************************************************************************************************************
+**************************************************************************************************************
+The client entered correct IP "127.0.0.1" to server's IP field and released "Connect" button. Date: Fri Oct 22 2021. Time: 03:46:27
+The client entered correct port "1033" to server's port field and released "Connect" button. Date: Fri Oct 22 2021. Time: 03:46:27
+The client successfully connected to the server. Date: Fri Oct 22 2021. Time: 03:46:27
+The client entered word "One" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 03:46:37
+The client received translating word "One" as "AAA" from the server. Date: Fri Oct 22 2021. Time: 03:46:37
+The client entered word "Two" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 03:46:41
+The client received translating word "Two" as "KKK" from the server. Date: Fri Oct 22 2021. Time: 03:46:41
+The client has been disconnected from the server. Date: Fri Oct 22 2021. Time: 03:46:44
+The client exited. Date: Fri Oct 22 2021. Time: 03:46:53
+**************************************************************************************************************
+**************************************************************************************************************
+The client entered nothing to server's IP field and released "Connect" button. Date: Fri Oct 22 2021. Time: 03:59:07
+The client entered nothing to server's port field and released "Connect" button. Date: Fri Oct 22 2021. Time: 03:59:07
+The client exited. Date: Fri Oct 22 2021. Time: 03:59:38
+**************************************************************************************************************
+**************************************************************************************************************
+The client has been launched. Date: Fri Oct 22 2021. Time: 04:09:59
+The client entered correct IP "127.0.0.1" to server's IP field and released "Connect" button. Date: Fri Oct 22 2021. Time: 04:09:59
+The client entered correct port "1033" to server's port field and released "Connect" button. Date: Fri Oct 22 2021. Time: 04:09:59
+The client successfully connected to the server. Date: Fri Oct 22 2021. Time: 04:09:59
+The client entered word "One" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 04:10:07
+The client received translating word "One" as "AAA" from the server. Date: Fri Oct 22 2021. Time: 04:10:07
+The client entered word "Two" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 04:10:11
+The client received translating word "Two" as "KKK" from the server. Date: Fri Oct 22 2021. Time: 04:10:11
+The client entered word "Three" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 04:10:14
+The client received translating word "Three" as "LLL" from the server. Date: Fri Oct 22 2021. Time: 04:10:14
+The client entered word "KKK" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 04:10:19
+The client received translating word "KKK" as "Not found!" from the server. Date: Fri Oct 22 2021. Time: 04:10:19
+The client has been disconnected from the server. Date: Fri Oct 22 2021. Time: 04:10:23
+The client entered correct IP "127.0.0.1" to server's IP field and released "Connect" button. Date: Fri Oct 22 2021. Time: 04:10:37
+The client entered correct port "1033" to server's port field and released "Connect" button. Date: Fri Oct 22 2021. Time: 04:10:37
+Connection failed. The client could not connected to the server. Date: Fri Oct 22 2021. Time: 04:10:39
+The client entered correct IP "127.0.0.1" to server's IP field and released "Connect" button. Date: Fri Oct 22 2021. Time: 04:10:47
+The client entered correct port "1033" to server's port field and released "Connect" button. Date: Fri Oct 22 2021. Time: 04:10:47
+Connection failed. The client could not connected to the server. Date: Fri Oct 22 2021. Time: 04:10:49
+The client has been disconnected from the server. Date: Fri Oct 22 2021. Time: 04:10:55
+The client exited. Date: Fri Oct 22 2021. Time: 04:10:55
+**************************************************************************************************************
+**************************************************************************************************************
+The client has been launched. Date: Fri Oct 22 2021. Time: 04:37:16
+The client entered correct IP "127.0.0.1" to server's IP field and released "Connect" button. Date: Fri Oct 22 2021. Time: 04:37:16
+The client entered correct port "1033" to server's port field and released "Connect" button. Date: Fri Oct 22 2021. Time: 04:37:16
+The client successfully connected to the server. Date: Fri Oct 22 2021. Time: 04:37:16
+The client entered word "One" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 04:37:21
+The client received translating word "One" as "Cake" from the server. Date: Fri Oct 22 2021. Time: 04:37:21
+The client entered word "Two" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 04:37:26
+The client received translating word "Two" as "Banana" from the server. Date: Fri Oct 22 2021. Time: 04:37:26
+The client entered word "Three" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 04:37:30
+The client received translating word "Three" as "Chocolate" from the server. Date: Fri Oct 22 2021. Time: 04:37:30
+The client entered word "Four" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 04:37:33
+The client received translating word "Four" as "Coffee" from the server. Date: Fri Oct 22 2021. Time: 04:37:33
+The client entered word "Five" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 04:37:36
+The client received translating word "Five" as "Pizza" from the server. Date: Fri Oct 22 2021. Time: 04:37:36
+The client entered word "Six" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 04:37:41
+The client received translating word "Six" as "Burger" from the server. Date: Fri Oct 22 2021. Time: 04:37:41
+The client entered word "Seven" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 04:37:44
+The client received translating word "Seven" as "Milk" from the server. Date: Fri Oct 22 2021. Time: 04:37:44
+The client entered word "Eight" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 04:37:47
+The client received translating word "Eight" as "Bread" from the server. Date: Fri Oct 22 2021. Time: 04:37:47
+The client entered word "Nine" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 04:37:50
+The client received translating word "Nine" as "Cacao" from the server. Date: Fri Oct 22 2021. Time: 04:37:50
+The client entered word "Ten" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 04:37:53
+The client received translating word "Ten" as "Watermelon" from the server. Date: Fri Oct 22 2021. Time: 04:37:53
+The client entered word "Eleven" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 04:37:59
+The client received translating word "Eleven" as "Juice" from the server. Date: Fri Oct 22 2021. Time: 04:37:59
+The client entered word "Twelve" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 04:38:07
+The client received translating word "Twelve" as "Strawberry" from the server. Date: Fri Oct 22 2021. Time: 04:38:07
+The client entered word "Thirteen" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 04:38:17
+The client received translating word "Thirteen" as "Tea" from the server. Date: Fri Oct 22 2021. Time: 04:38:17
+The client entered word "Fourteen" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 04:38:22
+The client received translating word "Fourteen" as "Soup" from the server. Date: Fri Oct 22 2021. Time: 04:38:22
+The client entered word "Fiveteen" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 04:38:31
+The client received translating word "Fiveteen" as "Cream" from the server. Date: Fri Oct 22 2021. Time: 04:38:31
+The client has been disconnected from the server. Date: Fri Oct 22 2021. Time: 04:38:34
+The client exited. Date: Fri Oct 22 2021. Time: 04:38:39
+**************************************************************************************************************
+**************************************************************************************************************
+The client has been launched. Date: Fri Oct 22 2021. Time: 04:47:28
+The client entered correct IP "127.0.0.1" to server's IP field and released "Connect" button. Date: Fri Oct 22 2021. Time: 04:47:28
+The client entered correct port "1033" to server's port field and released "Connect" button. Date: Fri Oct 22 2021. Time: 04:47:28
+The client successfully connected to the server. Date: Fri Oct 22 2021. Time: 04:47:28
+The client entered word "One" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 04:47:34
+The client received translating word "One" as "Cake" from the server. Date: Fri Oct 22 2021. Time: 04:47:34
+The client entered word "Two" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 04:47:37
+The client received translating word "Two" as "Banana" from the server. Date: Fri Oct 22 2021. Time: 04:47:37
+The client entered word "Three" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 04:47:40
+The client received translating word "Three" as "Chocolate" from the server. Date: Fri Oct 22 2021. Time: 04:47:40
+The client entered word "Four" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 04:47:43
+The client received translating word "Four" as "Coffee" from the server. Date: Fri Oct 22 2021. Time: 04:47:43
+The client entered word "Five" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 04:47:48
+The client received translating word "Five" as "Pizza" from the server. Date: Fri Oct 22 2021. Time: 04:47:48
+The client entered word "Six" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 04:47:51
+The client received translating word "Six" as "Burger" from the server. Date: Fri Oct 22 2021. Time: 04:47:51
+The client entered word "Seven" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 04:47:55
+The client received translating word "Seven" as "Milk" from the server. Date: Fri Oct 22 2021. Time: 04:47:55
+The client entered word "Eight" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 04:47:58
+The client received translating word "Eight" as "Bread" from the server. Date: Fri Oct 22 2021. Time: 04:47:58
+The client entered word "Nine" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 04:48:02
+The client received translating word "Nine" as "Cacao" from the server. Date: Fri Oct 22 2021. Time: 04:48:02
+The client entered word "Ten" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 04:48:05
+The client received translating word "Ten" as "Watermelon" from the server. Date: Fri Oct 22 2021. Time: 04:48:05
+The client entered word "Eleven" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 04:48:11
+The client received translating word "Eleven" as "Juice" from the server. Date: Fri Oct 22 2021. Time: 04:48:11
+The client entered word "Twelve" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 04:48:16
+The client received translating word "Twelve" as "Strawberry" from the server. Date: Fri Oct 22 2021. Time: 04:48:16
+The client entered word "Thirteen" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 04:48:22
+The client received translating word "Thirteen" as "Tea" from the server. Date: Fri Oct 22 2021. Time: 04:48:22
+The client entered word "Fourteen" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 04:48:27
+The client received translating word "Fourteen" as "Soup" from the server. Date: Fri Oct 22 2021. Time: 04:48:27
+The client entered word "Fiveteen" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 04:48:32
+The client received translating word "Fiveteen" as "Cream" from the server. Date: Fri Oct 22 2021. Time: 04:48:32
+The client has been disconnected from the server. Date: Fri Oct 22 2021. Time: 04:48:33
+The client exited. Date: Fri Oct 22 2021. Time: 04:48:36
+**************************************************************************************************************
+**************************************************************************************************************
+The client has been launched. Date: Fri Oct 22 2021. Time: 05:00:53
+The client entered correct IP "127.0.0.1" to server's IP field and released "Connect" button. Date: Fri Oct 22 2021. Time: 05:00:53
+The client entered correct port "1033" to server's port field and released "Connect" button. Date: Fri Oct 22 2021. Time: 05:00:53
+The client successfully connected to the server. Date: Fri Oct 22 2021. Time: 05:00:53
+The client entered word "One" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 05:00:58
+The client received translating word "One" as "Cake" from the server. Date: Fri Oct 22 2021. Time: 05:00:58
+The client entered word "Two" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 05:01:02
+The client received translating word "Two" as "Banana" from the server. Date: Fri Oct 22 2021. Time: 05:01:02
+The client entered word "Three" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 05:01:06
+The client received translating word "Three" as "Chocolate" from the server. Date: Fri Oct 22 2021. Time: 05:01:06
+The client entered word "Four" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 05:01:10
+The client received translating word "Four" as "Coffee" from the server. Date: Fri Oct 22 2021. Time: 05:01:10
+The client entered word "Five" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 05:01:14
+The client received translating word "Five" as "Pizza" from the server. Date: Fri Oct 22 2021. Time: 05:01:14
+The client entered word "Six" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 05:01:17
+The client received translating word "Six" as "Burger" from the server. Date: Fri Oct 22 2021. Time: 05:01:17
+The client entered word "Seven" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 05:01:20
+The client received translating word "Seven" as "Milk" from the server. Date: Fri Oct 22 2021. Time: 05:01:20
+The client entered word "Eight" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 05:01:24
+The client received translating word "Eight" as "Bread" from the server. Date: Fri Oct 22 2021. Time: 05:01:24
+The client entered word "Nine" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 05:01:27
+The client received translating word "Nine" as "Cacao" from the server. Date: Fri Oct 22 2021. Time: 05:01:27
+The client entered word "Ten" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 05:01:31
+The client received translating word "Ten" as "Watermelon" from the server. Date: Fri Oct 22 2021. Time: 05:01:31
+The client entered word "Eleven" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 05:01:36
+The client received translating word "Eleven" as "Juice" from the server. Date: Fri Oct 22 2021. Time: 05:01:36
+The client entered word "Twelve" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 05:01:40
+The client received translating word "Twelve" as "Strawberry" from the server. Date: Fri Oct 22 2021. Time: 05:01:40
+The client entered word "Thirteen" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 05:01:44
+The client received translating word "Thirteen" as "Tea" from the server. Date: Fri Oct 22 2021. Time: 05:01:44
+The client entered word "Fourteen" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 05:01:49
+The client received translating word "Fourteen" as "Soup" from the server. Date: Fri Oct 22 2021. Time: 05:01:49
+The client entered word "Fiveteen" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 05:01:56
+The client received translating word "Fiveteen" as "Cream" from the server. Date: Fri Oct 22 2021. Time: 05:01:56
+The client has been disconnected from the server. Date: Fri Oct 22 2021. Time: 05:01:58
+The client exited. Date: Fri Oct 22 2021. Time: 05:02:02
+**************************************************************************************************************
+**************************************************************************************************************
+The client has been launched. Date: Fri Oct 22 2021. Time: 09:04:44
+The client entered nothing to server's IP field and released "Connect" button. Date: Fri Oct 22 2021. Time: 09:04:44
+The client entered nothing to server's port field and released "Connect" button. Date: Fri Oct 22 2021. Time: 09:04:44
+The client entered nothing to server's IP field and released "Connect" button. Date: Fri Oct 22 2021. Time: 09:04:47
+The client entered nothing to server's port field and released "Connect" button. Date: Fri Oct 22 2021. Time: 09:04:47
+The client entered nothing to server's IP field and released "Connect" button. Date: Fri Oct 22 2021. Time: 09:04:47
+The client entered nothing to server's port field and released "Connect" button. Date: Fri Oct 22 2021. Time: 09:04:47
+The client entered nothing to server's port field and released "Connect" button. Date: Fri Oct 22 2021. Time: 09:04:52
+The client entered incorrect IP "127" to server's IP field and released "Connect" button. Date: Fri Oct 22 2021. Time: 09:04:52
+The client entered nothing to server's port field and released "Connect" button. Date: Fri Oct 22 2021. Time: 09:05:04
+The client entered incorrect IP "One" to server's IP field and released "Connect" button. Date: Fri Oct 22 2021. Time: 09:05:04
+The client entered nothing to server's port field and released "Connect" button. Date: Fri Oct 22 2021. Time: 09:05:10
+The client entered incorrect IP "127.0.0" to server's IP field and released "Connect" button. Date: Fri Oct 22 2021. Time: 09:05:10
+The client entered correct IP "127.0.0.1" to server's IP field and released "Connect" button. Date: Fri Oct 22 2021. Time: 09:05:24
+The client entered incorrect port "66666" to server's port field and released "Connect" button. Date: Fri Oct 22 2021. Time: 09:05:24
+The client entered correct IP "127.0.0.1" to server's IP field and released "Connect" button. Date: Fri Oct 22 2021. Time: 09:05:31
+The client entered incorrect port "AAA" to server's port field and released "Connect" button. Date: Fri Oct 22 2021. Time: 09:05:31
+The client entered correct IP "127.0.0.1" to server's IP field and released "Connect" button. Date: Fri Oct 22 2021. Time: 09:05:37
+The client entered correct port "1033" to server's port field and released "Connect" button. Date: Fri Oct 22 2021. Time: 09:05:37
+Connection failed. The client could not connected to the server. Date: Fri Oct 22 2021. Time: 09:05:39
+The client entered correct IP "127.0.0.1" to server's IP field and released "Connect" button. Date: Fri Oct 22 2021. Time: 09:07:31
+The client entered correct port "1031" to server's port field and released "Connect" button. Date: Fri Oct 22 2021. Time: 09:07:31
+Connection failed. The client could not connected to the server. Date: Fri Oct 22 2021. Time: 09:07:33
+The client entered correct IP "127.0.0.1" to server's IP field and released "Connect" button. Date: Fri Oct 22 2021. Time: 09:07:36
+The client entered correct port "1032" to server's port field and released "Connect" button. Date: Fri Oct 22 2021. Time: 09:07:36
+Connection failed. The client could not connected to the server. Date: Fri Oct 22 2021. Time: 09:07:38
+The client entered correct IP "127.0.0.1" to server's IP field and released "Connect" button. Date: Fri Oct 22 2021. Time: 09:07:42
+The client entered correct port "1033" to server's port field and released "Connect" button. Date: Fri Oct 22 2021. Time: 09:07:42
+The client successfully connected to the server. Date: Fri Oct 22 2021. Time: 09:07:42
+The client entered word "One" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 09:08:12
+The client received translating word "One" as "Cake" from the server. Date: Fri Oct 22 2021. Time: 09:08:12
+The client entered word "Two" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 09:08:17
+The client received translating word "Two" as "Banana" from the server. Date: Fri Oct 22 2021. Time: 09:08:17
+The client entered word "Twenty" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 09:08:27
+The client received translating word "Twenty" as "Not found!" from the server. Date: Fri Oct 22 2021. Time: 09:08:27
+The client has been disconnected from the server. Date: Fri Oct 22 2021. Time: 09:10:51
+The client entered correct IP "127.0.0.1" to server's IP field and released "Connect" button. Date: Fri Oct 22 2021. Time: 09:11:11
+The client entered correct port "1033" to server's port field and released "Connect" button. Date: Fri Oct 22 2021. Time: 09:11:11
+Connection failed. The client could not connected to the server. Date: Fri Oct 22 2021. Time: 09:11:13
+The client entered correct IP "127.0.0.1" to server's IP field and released "Connect" button. Date: Fri Oct 22 2021. Time: 09:11:29
+The client entered correct port "1033" to server's port field and released "Connect" button. Date: Fri Oct 22 2021. Time: 09:11:29
+The client successfully connected to the server. Date: Fri Oct 22 2021. Time: 09:11:29
+The client has been disconnected from the server. Date: Fri Oct 22 2021. Time: 09:11:35
+The client exited. Date: Fri Oct 22 2021. Time: 09:11:40
+**************************************************************************************************************
+**************************************************************************************************************
+The client has been launched. Date: Fri Oct 22 2021. Time: 09:38:08
+The client entered correct IP "127.0.0.1" to server's IP field and released "Connect" button. Date: Fri Oct 22 2021. Time: 09:38:08
+The client entered correct port "1033" to server's port field and released "Connect" button. Date: Fri Oct 22 2021. Time: 09:38:08
+The client successfully connected to the server. Date: Fri Oct 22 2021. Time: 09:38:08
+The client entered word "One" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 09:38:21
+The client received translating word "One" as "Cake" from the server. Date: Fri Oct 22 2021. Time: 09:38:21
+The client entered word "Two" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 09:38:25
+The client received translating word "Two" as "Banana" from the server. Date: Fri Oct 22 2021. Time: 09:38:25
+The client entered word "Three" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 09:38:28
+The client received translating word "Three" as "Chocolate" from the server. Date: Fri Oct 22 2021. Time: 09:38:28
+The client entered word "Four" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 09:38:35
+The client received translating word "Four" as "Coffee" from the server. Date: Fri Oct 22 2021. Time: 09:38:35
+The client entered word "Five" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 09:38:39
+The client received translating word "Five" as "Pizza" from the server. Date: Fri Oct 22 2021. Time: 09:38:39
+The client entered word "Six" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 09:38:43
+The client received translating word "Six" as "Burger" from the server. Date: Fri Oct 22 2021. Time: 09:38:43
+The client entered word "Seven" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 09:38:46
+The client received translating word "Seven" as "Milk" from the server. Date: Fri Oct 22 2021. Time: 09:38:46
+The client entered word "Eight" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 09:38:50
+The client received translating word "Eight" as "Bread" from the server. Date: Fri Oct 22 2021. Time: 09:38:50
+The client entered word "Nine" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 09:38:54
+The client received translating word "Nine" as "Cacao" from the server. Date: Fri Oct 22 2021. Time: 09:38:54
+The client entered word "Ten" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 09:38:59
+The client received translating word "Ten" as "Watermelon" from the server. Date: Fri Oct 22 2021. Time: 09:38:59
+The client entered word "Eleven" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 09:39:04
+The client received translating word "Eleven" as "Juice" from the server. Date: Fri Oct 22 2021. Time: 09:39:04
+The client entered word "Twelve" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 09:39:10
+The client received translating word "Twelve" as "Strawberry" from the server. Date: Fri Oct 22 2021. Time: 09:39:10
+The client entered word "Thirteen" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 09:39:19
+The client received translating word "Thirteen" as "Tea" from the server. Date: Fri Oct 22 2021. Time: 09:39:19
+The client entered word "Fourteen" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 09:39:27
+The client received translating word "Fourteen" as "Soup" from the server. Date: Fri Oct 22 2021. Time: 09:39:27
+The client entered word "Fiveteen" to field with translating word and released "Translate" button. Date: Fri Oct 22 2021. Time: 09:39:37
+The client received translating word "Fiveteen" as "Cream" from the server. Date: Fri Oct 22 2021. Time: 09:39:37
+The client has been disconnected from the server. Date: Fri Oct 22 2021. Time: 09:39:45
+The client exited. Date: Fri Oct 22 2021. Time: 09:39:50
+**************************************************************************************************************

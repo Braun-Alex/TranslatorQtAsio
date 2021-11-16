@@ -1,0 +1,577 @@
+
+************************************************************************************Server enabled successfully. Date: Oct 15 2021. Time: 20:29:21
+The server's work has been stopped. Date: Oct 15 2021. Time: 20:29:21
+
+
+************************************************************************************Server enabled successfully. Date: Oct 15 2021. Time: 20:32:40
+Client with IP 127.0.0.1 and port 52654 translated word . Date: Oct 15 2021. Time: 20:32:40
+Server translated the client's send word  as Got. Date: Oct 15 2021. Time: 20:32:40
+**************************************************************************************************************
+The session date: Oct 16 2021
+The session time: 00:41:38
+Server enabled successfully
+The server's work has been stopped
+**************************************************************************************************************
+The session date: Oct 16 2021
+The session time: 00:45:09
+Server enabled successfully
+The server's work has been stopped
+**************************************************************************************************************
+The session date: Oct 16 2021
+The session time: 00:48:45
+Server enabled successfully
+*****************************************************************************The server's work has been stopped
+**************************************************************************************************************
+The session date: Oct 16 2021
+The session time: 00:50:44
+Server enabled successfully
+The server's work has been stopped
+**************************************************************************************************************
+The session date: Oct 16 2021
+The session time: 00:52:40
+Server enabled successfully
+The server's work has been stopped
+**************************************************************************************************************
+The session date: Oct 16 2021
+The session time: 02:42:54
+Server enabled successfully
+The server's work has been stopped
+**************************************************************************************************************
+**************************************************************************************************************
+The session date: Oct 16 2021
+The session time: 02:42:54
+Server enabled successfully
+The server's work has been stopped
+**************************************************************************************************************
+**************************************************************************************************************
+The session date: Oct 16 2021
+The session time: 02:53:46
+Server enabled successfully
+The server's work has been stopped
+**************************************************************************************************************
+**************************************************************************************************************
+The session date: Oct 16 2021
+The session time: 02:53:46
+Server enabled successfully
+The server's work has been stopped
+**************************************************************************************************************
+**************************************************************************************************************
+Server enabled successfully
+The server's work has been stopped
+**************************************************************************************************************
+Sat Oct 16 03:18:02 2021**************************************************************************************************************
+Server enabled successfully. Date: Sat Oct 16 2021. Time: 03:28:50
+The server's work has been stopped
+**************************************************************************************************************
+**************************************************************************************************************
+Server enabled successfully. Date: Sat Oct 16 2021. Time: 03:31:59
+The server's work has been stopped. Date: Sat Oct 16 2021. Time: 03:32:09
+**************************************************************************************************************
+**************************************************************************************************************
+Server enabled successfully. Date: Sat Oct 16 2021. Time: 04:00:37
+The server's work has been stopped. Date: Sat Oct 16 2021. Time: 04:02:48
+**************************************************************************************************************
+**************************************************************************************************************
+Server enabled successfully. Date: Sat Oct 16 2021. Time: 04:12:16
+The server's work has been stopped. Date: Sat Oct 16 2021. Time: 04:13:22
+**************************************************************************************************************
+**************************************************************************************************************
+Server enabled successfully. Date: Sat Oct 16 2021. Time: 04:16:33
+Client with IP 127.0.0.1 and port 51178 translated word . Date: Sat Oct 16 2021. Time: 04:16:40
+Server translated the client's send word  as Got. Date: Sat Oct 16 2021. Time: 04:16:40
+Client with IP 127.0.0.1 and port 51178 translated word . Date: Sat Oct 16 2021. Time: 04:16:44
+Server translated the client's send word  as Got. Date: **************************************************************************************************************
+Server enabled successfully. Date: Sat Oct 16 2021. Time: 04:26:28
+Client with IP 127.0.0.1 and port 51247 translated word AAA. Date: Sat Oct 16 2021. Time: 04:26:34
+Server translated the client's send word AAA as Got. Date: Sat Oct 16 2021. Time: 04:26:34
+Client with IP 127.0.0.1 and port 51247 translated word KKK. Date: Sat Oct 16 2021. Time: 04:26:37
+Server translated the client's send word KKK as Got**************************************************************************************************************
+Server enabled successfully. Date: Sat Oct 16 2021. Time: 04:45:48
+Client with IP 127.0.0.1 and port 51382 translated word AAA. Date: Sat Oct 16 2021. Time: 04:45:53
+Server translated the client's send word AAA as Not found. Date: Sat Oct 16 2021. Time: 04:45:53
+Client with IP 127.0.0.1 and port 51382 translated word L. Date: Sat Oct 16 2021. Time: 04:46:00
+Server translated the client's send word L as Not found. Date: Sat Oct 16 2021. Time: 04:46:00
+Client with IP 127.0.0.1 and port 51382 translated word AAA. Date: Sat Oct 16 2021. Time: 04:46:04
+Server translated the client's send word AAA as Not found. Date: Sat Oct 16 2021. Time: 04:46:04
+Client with IP 127.0.0.1 and port 51382 translated word One. Date: Sat Oct 16 2021. Time: 04:46:07
+Server translated the client's send word One as AAA. Date: Sat Oct 16 2021. Time: 04:46:07
+Client with IP 127.0.0.1 and port 51382 translated word Two. Date: Sat Oct 16 2021. Time: 04:46:12
+Server translated the client's send word Two as KKK. Date: Sat Oct 16 2021. Time: 04:46:12
+Client with IP 127.0.0.1 and port 51382 translated word LLL. Date: Sat Oct 16 2021. Time: 04:46:17
+Server translated the client's send word LLL as Not found. Date: Sat Oct 16 2021. Time: 04:46:17
+Client with IP 127.0.0.1 and port 51382 translated word LLL. Date: Sat Oct 16 2021. Time: 04:46:17
+Server translated the client's send word LLL as Not found. Date: Sat Oct 16 2021. Time: 04:46:17
+Client with IP 127.0.0.1 and port 51382 translated word Three**************************************************************************************************************
+Server enabled successfully. Date: Sat Oct 16 2021. Time: 17:54:08
+The server's work has been stopped. Date: Sat Oct 16 2021. Time: 17:54:13
+**************************************************************************************************************
+**************************************************************************************************************
+Server enabled successfully. Date: Sat Oct 16 2021. Time: 18:28:06
+The server's work has been stopped. Date: Sat Oct 16 2021. Time: 18:28:42
+**************************************************************************************************************
+**************************************************************************************************************
+Server enabled successfully. Date: Sat Oct 16 2021. Time: 19:16:10
+The server's work has been stopped. Date: Sat Oct 16 2021. Time: 19:16:13
+**************************************************************************************************************
+**************************************************************************************************************
+Server enabled successfully. Date: Sun Oct 17 2021. Time: 00:37:19
+The server's work has been stopped. Date: Sun Oct 17 2021. Time: 00:38:11
+**************************************************************************************************************
+**************************************************************************************************************
+Server enabled successfully. The client with IP 127.0.0.1and port 58296 has connected to the server. Date: Sun Oct 17 2021. Time: 01:47:04
+Client with IP 127.0.0.1 and port 58296 translated word "One". Date: Sun Oct 17 2021. Time: 01:48:00
+Server translated the client's send word One as "AAA". Date: Sun Oct 17 2021. Time: 01:48:00
+Client with IP 127.0.0.1 and port 58296 translated word "Two". Date: Sun Oct 17 2021. Time: 01:48:06
+Server translated the client's send word Two as "KKK". Date: Sun Oct 17 2021. Time: 01:48:06
+The server's work has been stopped. Date: Sun Oct 17 2021. Time: 01:49:56
+**************************************************************************************************************
+**************************************************************************************************************
+Server enabled successfully. The client with IP 127.0.0.1 and port 58359 has connected to the server. Date: Sun Oct 17 2021. Time: 01:55:33
+Client with IP 127.0.0.1 and port 58359 translated word "One". Date: Sun Oct 17 2021. Time: 01:55:48
+Server translated the client's send word 'One' as 'AAA". Date: Sun Oct 17 2021. Time: 01:55:48
+Client with IP 127.0.0.1 and port 58359 translated word "Two". Date: Sun Oct 17 2021. Time: 01:55:51
+Server translated the client's send word 'Two' as 'KKK". Date: Sun Oct 17 2021. Time: 01:55:51
+Client with IP 127.0.0.1 and port 58359 translated word "Three". Date: Sun Oct 17 2021. Time: 01:55:55
+Server translated the client's send word 'Three' as 'LLL". Date: Sun Oct 17 2021. Time: 01:55:55
+The server's work has been stopped. Date: Sun Oct 17 2021. Time: 01:56:40
+**************************************************************************************************************
+**************************************************************************************************************
+Server enabled successfully. The client with IP 127.0.0.1 and port 58467 has connected to the server. Date: Sun Oct 17 2021. Time: 02:09:37
+Client with IP 127.0.0.1 and port 58467 translated word "One". Date: Sun Oct 17 2021. Time: 02:09:54
+d word One" as "AAA". Date: Sun Oct 17 2021. Time: 02:09:54
+Client with IP 127.0.0.1 and port 58467 translated word "Two". Date: Sun Oct 17 2021. Time: 02:09:57
+d word Two" as "KKK". Date: Sun Oct 17 2021. Time: 02:09:57
+Client with IP 127.0.0.1 and port 58467 translated word "Three". Date: Sun Oct 17 2021. Time: 02:10:01
+d word Three" as "LLL". Date: Sun Oct 17 2021. Time: 02:10:01
+Client with IP 127.0.0.1 and port 58467 translated word "Stop". Date: Sun Oct 17 2021. Time: 02:10:02
+d word Stop" as "Not found". Date: Sun Oct 17 2021. Time: 02:10:02
+The server's work has been stopped. Date: Sun Oct 17 2021. Time: 02:10:43
+**************************************************************************************************************
+**************************************************************************************************************
+Server enabled successfully. The client with IP 127.0.0.1 and port 58534 has connected to the server. Date: Sun Oct 17 2021. Time: 02:17:05
+Client with IP 127.0.0.1 and port 58534 translated word "One". Date: Sun Oct 17 2021. Time: 02:17:14
+Server translated the client's send word 34One" as "AAA". Date: Sun Oct 17 2021. Time: 02:17:14
+Client with IP 127.0.0.1 and port 58534 translated word "Two". Date: Sun Oct 17 2021. Time: 02:17:17
+Server translated the client's send word 34Two" as "KKK". Date: Sun Oct 17 2021. Time: 02:17:17
+Client with IP 127.0.0.1 and port 58534 translated word "Three". Date: Sun Oct 17 2021. Time: 02:17:24
+Server translated the client's send word 34Three" as "LLL". Date: Sun Oct 17 2021. Time: 02:17:24
+Client with IP 127.0.0.1 and port 58534 translated word "Stop". Date: Sun Oct 17 2021. Time: 02:17:25
+Server translated the client's send word 34Stop" as "Not found". Date: Sun Oct 17 2021. Time: 02:17:25
+The server's work has been stopped. Date: Sun Oct 17 2021. Time: 02:18:13
+**************************************************************************************************************
+**************************************************************************************************************
+Server enabled successfully. The client with IP 127.0.0.1 and port 58629 has connected to the server. Date: Sun Oct 17 2021. Time: 02:30:38
+Client with IP 127.0.0.1 and port 58629 translated word "One". Date: Sun Oct 17 2021. Time: 02:30:44
+Server translated the client's send word 34One" as "AAA". Date: Sun Oct 17 2021. Time: 02:30:44
+Client with IP 127.0.0.1 and port 58629 translated word "Two". Date: Sun Oct 17 2021. Time: 02:30:47
+Server translated the client's send word 34Two" as "KKK". Date: Sun Oct 17 2021. Time: 02:30:47
+Client with IP 127.0.0.1 and port 58629 translated word "Three". Date: Sun Oct 17 2021. Time: 02:30:50
+Server translated the client's send word 34Three" as "LLL". Date: Sun Oct 17 2021. Time: 02:30:50
+Client with IP 127.0.0.1 and port 58629 translated word "Stop". Date: Sun Oct 17 2021. Time: 02:30:50
+Server translated the client's send word 34Stop" as "Not found". Date: Sun Oct 17 2021. Time: 02:30:50
+The server's work has been stopped. Date: Sun Oct 17 2021. Time: 02:31:35
+**************************************************************************************************************
+**************************************************************************************************************
+Server enabled successfully. The client with IP 127.0.0.1 and port 58706 has connected to the server. Date: Sun Oct 17 2021. Time: 02:41:16
+Client with IP 127.0.0.1 and port 58706 translated word "One". Date: Sun Oct 17 2021. Time: 02:41:22
+Server translated the client's send word "One" as "AAA". Date: Sun Oct 17 2021. Time: 02:41:22
+Client with IP 127.0.0.1 and port 58706 translated word "Two". Date: Sun Oct 17 2021. Time: 02:41:30
+Server translated the client's send word "Two" as "KKK". Date: Sun Oct 17 2021. Time: 02:41:30
+Client with IP 127.0.0.1 and port 58706 translated word "Three". Date: Sun Oct 17 2021. Time: 02:41:33
+Server translated the client's send word "Three" as "LLL". Date: Sun Oct 17 2021. Time: 02:41:33
+Client with IP 127.0.0.1 and port 58706 translated word "Stop". Date: Sun Oct 17 2021. Time: 02:41:34
+Server translated the client's send word "Stop" as "Not found". Date: Sun Oct 17 2021. Time: 02:41:34
+The server's work has been stopped. Date: Sun Oct 17 2021. Time: 02:42:07
+**************************************************************************************************************
+**************************************************************************************************************
+The server enabled successfully. The client with IP 127.0.0.1 and port 58973 has connected to the server. Date: Sun Oct 17 2021. Time: 03:19:38
+The client translated word "One". Date: Sun Oct 17 2021. Time: 03:19:42
+The server translated the client's send word "One" as "AAA". Date: Sun Oct 17 2021. Time: 03:19:42
+The client translated word "Two". Date: Sun Oct 17 2021. Time: 03:19:45
+The server translated the client's send word "Two" as "KKK". Date: Sun Oct 17 2021. Time: 03:19:45
+The client translated word "Three". Date: Sun Oct 17 2021. Time: 03:19:49
+The server translated the client's send word "Three" as "LLL". Date: Sun Oct 17 2021. Time: 03:19:49
+The client has been disconnected. The server has been disabled. Date: Sun Oct 17 2021. Time: 03:19:50
+**************************************************************************************************************
+The server enabled successfully. The client with IP 127.0.0.1 and port 58986 has connected to the server. Date: Sun Oct 17 2021. Time: 03:21:18
+The client translated word "One". Date: Sun Oct 17 2021. Time: 03:21:26
+The server translated the client's send word "One" as "AAA". Date: Sun Oct 17 2021. Time: 03:21:26
+The client translated word "Two". Date: Sun Oct 17 2021. Time: 03:21:29
+The server translated the client's send word "Two" as "KKK". Date: Sun Oct 17 2021. Time: 03:21:29
+The client translated word "Three". Date: Sun Oct 17 2021. Time: 03:21:33
+The server translated the client's send word "Three" as "LLL". Date: Sun Oct 17 2021. Time: 03:21:33
+The client has been disconnected. The server has been disabled. Date: Sun Oct 17 2021. Time: 03:21:34
+**************************************************************************************************************
+The server enabled successfully. The client with IP 127.0.0.1 and port 59025 has connected to the server. Date: Sun Oct 17 2021. Time: 03:26:23
+The client translated word "One". Date: Sun Oct 17 2021. Time: 03:26:36
+The server translated the client's send word "One" as "AAA". Date: Sun Oct 17 2021. Time: 03:26:36
+The client translated word "Two". Date: Sun Oct 17 2021. Time: 03:26:39
+The server translated the client's send word "Two" as "KKK"**************************************************************************************************************
+The server enabled successfully. The client with IP 127.0.0.1 and port 59050 has connected to the server. Date: Sun Oct 17 2021. Time: 03:29:48
+The client translated word "One". Date: Sun Oct 17 2021. Time: 03:29:54
+The server translated the client's send word "One" as "AAA". Date: Sun Oct 17 2021. Time: 03:29:54
+The client translated word "Two". Date: Sun Oct 17 2021. Time: 03:29:57
+The server translated the client's send word "Two" as "KKK"**************************************************************************************************************
+The server enabled successfully. The client with IP 127.0.0.1 and port 59068 has connected to the server. Date: Sun Oct 17 2021. Time: 03:32:04
+The client translated word "One". Date: Sun Oct 17 2021. Time: 03:32:08
+The server translated the client's send word "One" as "AAA". Date: Sun Oct 17 2021. Time: 03:32:08
+The client translated word "Two". Date: Sun Oct 17 2021. Time: 03:32:12
+The server translated the client's send word "Two" as "KKK"**************************************************************************************************************
+The server enabled successfully. The client with IP 127.0.0.1 and port 59101 has connected to the server. Date: Sun Oct 17 2021. Time: 03:36:21
+The client translated word "One". Date: Sun Oct 17 2021. Time: 03:36:31
+The server translated the client's send word "One" as "AAA". Date: Sun Oct 17 2021. Time: 03:36:31
+The client translated word "Two". Date: Sun Oct 17 2021. Time: 03:36:36
+The server translated the client's send word "Two" as "KKK"**************************************************************************************************************
+The server enabled successfully. The client with IP 127.0.0.1 and port 59127 has connected to the server. Date: Sun Oct 17 2021. Time: 03:39:40
+The client translated word "One". Date: Sun Oct 17 2021. Time: 03:39:46
+The server translated the client's send word "One" as "AAA". Date: Sun Oct 17 2021. Time: 03:39:46
+The client translated word "Two". Date: Sun Oct 17 2021. Time: 03:39:49
+The server translated the client's send word "Two" as "KKK"**************************************************************************************************************
+The server enabled successfully. The client with IP 127.0.0.1 and port 59147 has connected to the server. Date: Sun Oct 17 2021. Time: 03:41:48
+The client translated word "One". Date: Sun Oct 17 2021. Time: 03:41:55
+The server translated the client's send word "One" as "AAA". Date: Sun Oct 17 2021. Time: 03:41:55
+The client translated word "Two". Date: Sun Oct 17 2021. Time: 03:41:59
+The server translated the client's send word "Two" as "KKK"**************************************************************************************************************
+The server enabled successfully. The client with IP 127.0.0.1 and port 59178 has connected to the server. Date: Sun Oct 17 2021. Time: 03:46:03
+The client translated word "One". Date: Sun Oct 17 2021. Time: 03:46:10
+The server translated the client's send word "One" as "AAA". Date: Sun Oct 17 2021. Time: 03:46:10
+The client translated word "Two". Date: Sun Oct 17 2021. Time: 03:46:13
+The server translated the client's send word "Two" as "KKK"**************************************************************************************************************
+The server enabled successfully. The client with IP 127.0.0.1 and port 59193 has connected to the server. Date: Sun Oct 17 2021. Time: 03:47:55
+The client translated word "One". Date: Sun Oct 17 2021. Time: 03:48:01
+The server translated the client's send word "One" as "AAA". Date: Sun Oct 17 2021. Time: 03:48:01
+The client translated word "Two". Date: Sun Oct 17 2021. Time: 03:48:06
+The server translated the client's send word "Two" as "KKK"**************************************************************************************************************
+The server enabled successfully. The client with IP 127.0.0.1 and port 59221 has connected to the server. Date: Sun Oct 17 2021. Time: 03:51:34
+The client translated word "One". Date: Sun Oct 17 2021. Time: 03:51:48
+The server translated the client's send word "One" as "AAA". Date: Sun Oct 17 2021. Time: 03:51:48
+The client translated word "Two". Date: Sun Oct 17 2021. Time: 03:51:51
+The server translated the client's send word "Two" as "KKK"**************************************************************************************************************
+The server enabled successfully. The client with IP 127.0.0.1 and port 59756 has connected to the server. Date: Thu Oct 21 2021. Time: 21:06:55
+The client translated word "One". Date: Thu Oct 21 2021. Time: 21:07:08
+The server translated the client's send word "One" as "Not found!". Date: Thu Oct 21 2021. Time: 21:07:08
+The client translated word "Two". Date: Thu Oct 21 2021. Time: 21:07:16
+The server translated the client's send word "Two" as "Not found!". Date: Thu Oct 21 2021. Time: 21:07:16
+The client translated word "AAA". Date: Thu Oct 21 2021. Time: 21:07:21
+The server translated the client's send word "AAA" as "Not found!". Date: Thu Oct 21 2021. Time: 21:07:21
+The client translated word "Three". Date: Thu Oct 21 2021. Time: 21:07:28
+The server translated the client's send word "Three" as "Not found!". Date: Thu Oct 21 2021. Time: 21:07:28
+The client has been disconnected. The server has been disabled. Date: Thu Oct 21 2021. Time: 21:08:34
+The server's work has been stopped. Date: Thu Oct 21 2021. Time: 21:08:48
+**************************************************************************************************************
+**************************************************************************************************************
+The server enabled successfully. The client with IP 127.0.0.1 and port 59790 has connected to the server. Date: Thu Oct 21 2021. Time: 21:11:38
+The client translated word "One". Date: Thu Oct 21 2021. Time: 21:11:42
+The server translated the client's send word "One" as "AAA". Date: Thu Oct 21 2021. Time: 21:11:42
+The client translated word "Two". Date: Thu Oct 21 2021. Time: 21:11:46
+The server translated the client's send word "Two" as "KKK"**************************************************************************************************************
+The server enabled successfully. The client with IP 127.0.0.1 and port 59813 has connected to the server. Date: Thu Oct 21 2021. Time: 21:14:39
+The client translated word "One". Date: Thu Oct 21 2021. Time: 21:14:43
+The server translated the client's send word "One" as "AAA". Date: Thu Oct 21 2021. Time: 21:14:43
+The client translated word "Two". Date: Thu Oct 21 2021. Time: 21:14:47
+The server translated the client's send word "Two" as "KKK"**************************************************************************************************************
+The server enabled successfully. The client with IP 127.0.0.1 and port 60016 has connected to the server. Date: Thu Oct 21 2021. Time: 21:43:25
+The client translated word "One". Date: Thu Oct 21 2021. Time: 21:43:28
+The server translated the client's send word "One" as "AAA". Date: Thu Oct 21 2021. Time: 21:43:28
+The client translated word "Two". Date: Thu Oct 21 2021. Time: 21:43:32
+The server translated the client's send word "Two" as "KKK". Date: Thu Oct 21 2021. Time: 21:43:32
+The client translated word "Three". Date: Thu Oct 21 2021. Time: 21:43:36
+The server translated the client's send word "Three" as "LLL". Date: Thu Oct 21 2021. Time: 21:43:36
+The client has been disconnected. The server has been disabled. Date: Thu Oct 21 2021. Time: 21:43:46
+The server's work has been stopped. Date: Thu Oct 21 2021. Time: 21:44:18
+**************************************************************************************************************
+**************************************************************************************************************
+The server enabled successfully. The client with IP 127.0.0.1 and port 60073 has connected to the server. Date: Thu Oct 21 2021. Time: 21:50:47
+The server's work has been stopped. Date: Thu Oct 21 2021. Time: 21:50:55
+**************************************************************************************************************
+**************************************************************************************************************
+The server's work has been stopped. Date: Thu Oct 21 2021. Time: 21:53:49
+**************************************************************************************************************
+**************************************************************************************************************
+The server enabled successfully. The client with IP 127.0.0.1 and port 60165 has connected to the server. Date: Thu Oct 21 2021. Time: 22:03:50
+The client has been disconnected. The server has been disabled. Date: Thu Oct 21 2021. Time: 22:05:21
+The server's work has been stopped. Date: Thu Oct 21 2021. Time: 22:05:23
+**************************************************************************************************************
+**************************************************************************************************************
+The server enabled successfully. The client with IP 127.0.0.1 and port 60362 has connected to the server. Date: Thu Oct 21 2021. Time: 22:31:58
+The client has been disconnected. The server has been disabled. Date: Thu Oct 21 2021. Time: 22:32:24
+The server's work has been stopped. Date: Thu Oct 21 2021. Time: 22:32:29
+**************************************************************************************************************
+**************************************************************************************************************
+The server's work has been stopped. Date: Fri Oct 22 2021. Time: 01:31:05
+**************************************************************************************************************
+**************************************************************************************************************
+The server enabled successfully. The client with IP 127.0.0.1 and port 57530 has connected to the server. Date: Fri Oct 22 2021. Time: 02:53:13
+The client has been disconnected. The server has been disabled. Date: Fri Oct 22 2021. Time: 02:53:23
+The server's work has been stopped. Date: Fri Oct 22 2021. Time: 02:53:27
+**************************************************************************************************************
+**************************************************************************************************************
+The server's work has been stopped. Date: Fri Oct 22 2021. Time: 03:01:30
+**************************************************************************************************************
+**************************************************************************************************************
+The server's work has been stopped. Date: Fri Oct 22 2021. Time: 03:12:10
+**************************************************************************************************************
+**************************************************************************************************************
+The server's work has been stopped. Date: Fri Oct 22 2021. Time: 03:21:25
+**************************************************************************************************************
+**************************************************************************************************************
+The server enabled successfully. The client with IP 127.0.0.1 and port 57740 has connected to the server. Date: Fri Oct 22 2021. Time: 03:22:42
+The client translated word "One". Date: Fri Oct 22 2021. Time: 03:23:00
+The server translated the client's send word "One" as "AAA". Date: Fri Oct 22 2021. Time: 03:23:00
+The client translated word "Two". Date: Fri Oct 22 2021. Time: 03:23:04
+The server translated the client's send word "Two" as "KKK". Date: Fri Oct 22 2021. Time: 03:23:04
+The client translated word "Three". Date: Fri Oct 22 2021. Time: 03:23:08
+The server translated the client's send word "Three" as "LLL". Date: Fri Oct 22 2021. Time: 03:23:08
+The client translated word "Four". Date: Fri Oct 22 2021. Time: 03:23:50
+The server translated the client's send word "Four" as "Not found!". Date: Fri Oct 22 2021. Time: 03:23:50
+The client translated word "Five". Date: Fri Oct 22 2021. Time: 03:23:54
+The server translated the client's send word "Five" as "Not found!". Date: Fri Oct 22 2021. Time: 03:23:54
+The client has been disconnected. The server has been disabled. Date: Fri Oct 22 2021. Time: 03:23:57
+The server's work has been stopped. Date: Fri Oct 22 2021. Time: 03:24:17
+**************************************************************************************************************
+**************************************************************************************************************
+The server enabled successfully. The client with IP 127.0.0.1 and port 57757 has connected to the server. Date: Fri Oct 22 2021. Time: 03:24:34
+The client translated word "One". Date: Fri Oct 22 2021. Time: 03:24:42
+The server translated the client's send word "One" as "AAA". Date: Fri Oct 22 2021. Time: 03:24:42
+The client translated word "Two". Date: Fri Oct 22 2021. Time: 03:24:46
+The server translated the client's send word "Two" as "KKK". Date: Fri Oct 22 2021. Time: 03:24:46
+The client translated word "Three". Date: Fri Oct 22 2021. Time: 03:24:49
+The server translated the client's send word "Three" as "LLL". Date: Fri Oct 22 2021. Time: 03:24:49
+The client has been disconnected. The server has been disabled. Date: Fri Oct 22 2021. Time: 03:24:54
+The server's work has been stopped. Date: Fri Oct 22 2021. Time: 03:24:59
+**************************************************************************************************************
+**************************************************************************************************************
+The server enabled successfully. The client with IP 127.0.0.1 and port 57762 has connected to the server. Date: Fri Oct 22 2021. Time: 03:25:30
+The client translated word "One". Date: Fri Oct 22 2021. Time: 03:25:37
+The server translated the client's send word "One" as "AAA". Date: Fri Oct 22 2021. Time: 03:25:37
+The client translated word "Two". Date: Fri Oct 22 2021. Time: 03:25:44
+The server translated the client's send word "Two" as "KKK". Date: Fri Oct 22 2021. Time: 03:25:44
+The client translated word "Three". Date: Fri Oct 22 2021. Time: 03:25:50
+The server translated the client's send word "Three" as "LLL". Date: Fri Oct 22 2021. Time: 03:25:50
+The client has been disconnected. The server has been disabled. Date: Fri Oct 22 2021. Time: 03:26:00
+The server's work has been stopped. Date: Fri Oct 22 2021. Time: 03:26:06
+**************************************************************************************************************
+**************************************************************************************************************
+The server enabled successfully. The client with IP 127.0.0.1 and port 57842 has connected to the server. Date: Fri Oct 22 2021. Time: 03:35:47
+The client translated word "One". Date: Fri Oct 22 2021. Time: 03:35:52
+The server translated the client's send word "One" as "AAA". Date: Fri Oct 22 2021. Time: 03:35:52
+The client translated word "Two". Date: Fri Oct 22 2021. Time: 03:35:56
+The server translated the client's send word "Two" as "KKK". Date: Fri Oct 22 2021. Time: 03:35:56
+The client translated word "Three". Date: Fri Oct 22 2021. Time: 03:36:00
+The server translated the client's send word "Three" as "LLL". Date: Fri Oct 22 2021. Time: 03:36:00
+The client has been disconnected. The server has been disabled. Date: Fri Oct 22 2021. Time: 03:36:03
+The server's work has been stopped. Date: Fri Oct 22 2021. Time: 03:36:27
+**************************************************************************************************************
+**************************************************************************************************************
+The server enabled successfully. The client with IP 127.0.0.1 and port 57883 has connected to the server. Date: Fri Oct 22 2021. Time: 03:40:14
+The client translated word "One". Date: Fri Oct 22 2021. Time: 03:40:29
+The server translated the client's send word "One" as "AAA". Date: Fri Oct 22 2021. Time: 03:40:29
+The client translated word "Two". Date: Fri Oct 22 2021. Time: 03:40:42
+The server translated the client's send word "Two" as "KKK". Date: Fri Oct 22 2021. Time: 03:40:42
+The client translated word "Three". Date: Fri Oct 22 2021. Time: 03:40:54
+The server translated the client's send word "Three" as "LLL". Date: Fri Oct 22 2021. Time: 03:40:54
+The client has been disconnected. The server has been disabled. Date: Fri Oct 22 2021. Time: 03:40:56
+The server's work has been stopped. Date: Fri Oct 22 2021. Time: 03:41:07
+**************************************************************************************************************
+**************************************************************************************************************
+The server enabled successfully. The client with IP 127.0.0.1 and port 57930 has connected to the server. Date: Fri Oct 22 2021. Time: 03:46:27
+The client translated word "One". Date: Fri Oct 22 2021. Time: 03:46:37
+The server translated the client's send word "One" as "AAA". Date: Fri Oct 22 2021. Time: 03:46:37
+The client translated word "Two". Date: Fri Oct 22 2021. Time: 03:46:41
+The server translated the client's send word "Two" as "KKK". Date: Fri Oct 22 2021. Time: 03:46:41
+The client has been disconnected. The server has been disabled. Date: Fri Oct 22 2021. Time: 03:46:44
+The server's work has been stopped. Date: Fri Oct 22 2021. Time: 03:46:56
+**************************************************************************************************************
+**************************************************************************************************************
+The server enabled successfully. The client with IP 127.0.0.1 and port 57948 has connected to the server. Date: Fri Oct 22 2021. Time: 03:48:16
+The client has been disconnected. The server has been disabled. Date: Fri Oct 22 2021. Time: 03:48:26
+The server's work has been stopped. Date: Fri Oct 22 2021. Time: 03:48:33
+**************************************************************************************************************
+**************************************************************************************************************
+The server's work has been started. Date: Fri Oct 22 2021. Time: 04:05:41
+The server enabled successfully. The client with IP 127.0.0.1 and port 58074 has connected to the server. Date: Fri Oct 22 2021. Time: 04:05:49
+The client translated word "One". Date: Fri Oct 22 2021. Time: 04:05:53
+The server translated the client's send word "One" as "AAA". Date: Fri Oct 22 2021. Time: 04:05:53
+The client translated word "Two". Date: Fri Oct 22 2021. Time: 04:05:57
+The server translated the client's send word "Two" as "KKK". Date: Fri Oct 22 2021. Time: 04:05:57
+The client translated word "Three". Date: Fri Oct 22 2021. Time: 04:06:00
+The server translated the client's send word "Three" as "LLL". Date: Fri Oct 22 2021. Time: 04:06:00
+The client has been disconnected. The server has been disabled. Date: Fri Oct 22 2021. Time: 04:06:01
+The server's work has been stopped. Date: Fri Oct 22 2021. Time: 04:06:08
+**************************************************************************************************************
+**************************************************************************************************************
+The server's work has been started. Date: Fri Oct 22 2021. Time: 04:09:37
+The server enabled successfully. The client with IP 127.0.0.1 and port 58106 has connected to the server. Date: Fri Oct 22 2021. Time: 04:09:59
+The client translated word "One". Date: Fri Oct 22 2021. Time: 04:10:07
+The server translated the client's send word "One" as "AAA". Date: Fri Oct 22 2021. Time: 04:10:07
+The client translated word "Two". Date: Fri Oct 22 2021. Time: 04:10:11
+The server translated the client's send word "Two" as "KKK". Date: Fri Oct 22 2021. Time: 04:10:11
+The client translated word "Three". Date: Fri Oct 22 2021. Time: 04:10:14
+The server translated the client's send word "Three" as "LLL". Date: Fri Oct 22 2021. Time: 04:10:14
+The client translated word "KKK". Date: Fri Oct 22 2021. Time: 04:10:19
+The server translated the client's send word "KKK" as "Not found!". Date: Fri Oct 22 2021. Time: 04:10:19
+The client has been disconnected. The server has been disabled. Date: Fri Oct 22 2021. Time: 04:10:23
+The server's work has been stopped. Date: Fri Oct 22 2021. Time: 04:11:00
+**************************************************************************************************************
+**************************************************************************************************************
+The server's work has been started. Date: Fri Oct 22 2021. Time: 04:37:07
+The server enabled successfully. The client with IP 127.0.0.1 and port 58299 has connected to the server. Date: Fri Oct 22 2021. Time: 04:37:16
+The client translated word "One". Date: Fri Oct 22 2021. Time: 04:37:21
+The server translated the client's sent word "One" as "Cake". Date: Fri Oct 22 2021. Time: 04:37:21
+The client translated word "Two". Date: Fri Oct 22 2021. Time: 04:37:26
+The server translated the client's sent word "Two" as "Banana". Date: Fri Oct 22 2021. Time: 04:37:26
+The client translated word "Three". Date: Fri Oct 22 2021. Time: 04:37:30
+The server translated the client's sent word "Three" as "Chocolate". Date: Fri Oct 22 2021. Time: 04:37:30
+The client translated word "Four". Date: Fri Oct 22 2021. Time: 04:37:33
+The server translated the client's sent word "Four" as "Coffee". Date: Fri Oct 22 2021. Time: 04:37:33
+The client translated word "Five". Date: Fri Oct 22 2021. Time: 04:37:36
+The server translated the client's sent word "Five" as "Pizza". Date: Fri Oct 22 2021. Time: 04:37:36
+The client translated word "Six". Date: Fri Oct 22 2021. Time: 04:37:41
+The server translated the client's sent word "Six" as "Burger". Date: Fri Oct 22 2021. Time: 04:37:41
+The client translated word "Seven". Date: Fri Oct 22 2021. Time: 04:37:44
+The server translated the client's sent word "Seven" as "Milk". Date: Fri Oct 22 2021. Time: 04:37:44
+The client translated word "Eight". Date: Fri Oct 22 2021. Time: 04:37:47
+The server translated the client's sent word "Eight" as "Bread". Date: Fri Oct 22 2021. Time: 04:37:47
+The client translated word "Nine". Date: Fri Oct 22 2021. Time: 04:37:50
+The server translated the client's sent word "Nine" as "Cacao". Date: Fri Oct 22 2021. Time: 04:37:50
+The client translated word "Ten". Date: Fri Oct 22 2021. Time: 04:37:53
+The server translated the client's sent word "Ten" as "Watermelon". Date: Fri Oct 22 2021. Time: 04:37:53
+The client translated word "Eleven". Date: Fri Oct 22 2021. Time: 04:37:59
+The server translated the client's sent word "Eleven" as "Juice". Date: Fri Oct 22 2021. Time: 04:37:59
+The client translated word "Twelve". Date: Fri Oct 22 2021. Time: 04:38:07
+The server translated the client's sent word "Twelve" as "Strawberry". Date: Fri Oct 22 2021. Time: 04:38:07
+The client translated word "Thirteen". Date: Fri Oct 22 2021. Time: 04:38:17
+The server translated the client's sent word "Thirteen" as "Tea". Date: Fri Oct 22 2021. Time: 04:38:17
+The client translated word "Fourteen". Date: Fri Oct 22 2021. Time: 04:38:22
+The server translated the client's sent word "Fourteen" as "Soup". Date: Fri Oct 22 2021. Time: 04:38:22
+The client translated word "Fiveteen". Date: Fri Oct 22 2021. Time: 04:38:31
+The server translated the client's sent word "Fiveteen" as "Cream". Date: Fri Oct 22 2021. Time: 04:38:31
+The client has been disconnected. The server has been disabled. Date: Fri Oct 22 2021. Time: 04:38:34
+The server's work has been stopped. Date: Fri Oct 22 2021. Time: 04:38:41
+**************************************************************************************************************
+**************************************************************************************************************
+The server's work has been started. Date: Fri Oct 22 2021. Time: 04:47:10
+The server enabled successfully. The client with IP 127.0.0.1 and port 58375 has connected to the server. Date: Fri Oct 22 2021. Time: 04:47:28
+The client translated word "One". Date: Fri Oct 22 2021. Time: 04:47:34
+The server translated the client's sent word "One" as "Cake". Date: Fri Oct 22 2021. Time: 04:47:34
+The client translated word "Two". Date: Fri Oct 22 2021. Time: 04:47:37
+The server translated the client's sent word "Two" as "Banana". Date: Fri Oct 22 2021. Time: 04:47:37
+The client translated word "Three". Date: Fri Oct 22 2021. Time: 04:47:40
+The server translated the client's sent word "Three" as "Chocolate". Date: Fri Oct 22 2021. Time: 04:47:40
+The client translated word "Four". Date: Fri Oct 22 2021. Time: 04:47:43
+The server translated the client's sent word "Four" as "Coffee". Date: Fri Oct 22 2021. Time: 04:47:43
+The client translated word "Five". Date: Fri Oct 22 2021. Time: 04:47:48
+The server translated the client's sent word "Five" as "Pizza". Date: Fri Oct 22 2021. Time: 04:47:48
+The client translated word "Six". Date: Fri Oct 22 2021. Time: 04:47:51
+The server translated the client's sent word "Six" as "Burger". Date: Fri Oct 22 2021. Time: 04:47:51
+The client translated word "Seven". Date: Fri Oct 22 2021. Time: 04:47:55
+The server translated the client's sent word "Seven" as "Milk". Date: Fri Oct 22 2021. Time: 04:47:55
+The client translated word "Eight". Date: Fri Oct 22 2021. Time: 04:47:58
+The server translated the client's sent word "Eight" as "Bread". Date: Fri Oct 22 2021. Time: 04:47:58
+The client translated word "Nine". Date: Fri Oct 22 2021. Time: 04:48:02
+The server translated the client's sent word "Nine" as "Cacao". Date: Fri Oct 22 2021. Time: 04:48:02
+The client translated word "Ten". Date: Fri Oct 22 2021. Time: 04:48:05
+The server translated the client's sent word "Ten" as "Watermelon". Date: Fri Oct 22 2021. Time: 04:48:05
+The client translated word "Eleven". Date: Fri Oct 22 2021. Time: 04:48:11
+The server translated the client's sent word "Eleven" as "Juice". Date: Fri Oct 22 2021. Time: 04:48:11
+The client translated word "Twelve". Date: Fri Oct 22 2021. Time: 04:48:16
+The server translated the client's sent word "Twelve" as "Strawberry". Date: Fri Oct 22 2021. Time: 04:48:16
+The client translated word "Thirteen". Date: Fri Oct 22 2021. Time: 04:48:22
+The server translated the client's sent word "Thirteen" as "Tea". Date: Fri Oct 22 2021. Time: 04:48:22
+The client translated word "Fourteen". Date: Fri Oct 22 2021. Time: 04:48:27
+The server translated the client's sent word "Fourteen" as "Soup". Date: Fri Oct 22 2021. Time: 04:48:27
+The client translated word "Fiveteen". Date: Fri Oct 22 2021. Time: 04:48:32
+The server translated the client's sent word "Fiveteen" as "Cream". Date: Fri Oct 22 2021. Time: 04:48:32
+The client has been disconnected. The server has been disabled. Date: Fri Oct 22 2021. Time: 04:48:33
+The server's work has been stopped. Date: Fri Oct 22 2021. Time: 04:48:43
+**************************************************************************************************************
+**************************************************************************************************************
+The server's work has been started. Date: Fri Oct 22 2021. Time: 05:00:37
+The server enabled successfully. The client with IP 127.0.0.1 and port 58466 has connected to the server. Date: Fri Oct 22 2021. Time: 05:00:53
+The client translated word "One". Date: Fri Oct 22 2021. Time: 05:00:58
+The server translated the client's sent word "One" as "Cake". Date: Fri Oct 22 2021. Time: 05:00:58
+The client translated word "Two". Date: Fri Oct 22 2021. Time: 05:01:02
+The server translated the client's sent word "Two" as "Banana". Date: Fri Oct 22 2021. Time: 05:01:02
+The client translated word "Three". Date: Fri Oct 22 2021. Time: 05:01:06
+The server translated the client's sent word "Three" as "Chocolate". Date: Fri Oct 22 2021. Time: 05:01:06
+The client translated word "Four". Date: Fri Oct 22 2021. Time: 05:01:10
+The server translated the client's sent word "Four" as "Coffee". Date: Fri Oct 22 2021. Time: 05:01:10
+The client translated word "Five". Date: Fri Oct 22 2021. Time: 05:01:14
+The server translated the client's sent word "Five" as "Pizza". Date: Fri Oct 22 2021. Time: 05:01:14
+The client translated word "Six". Date: Fri Oct 22 2021. Time: 05:01:17
+The server translated the client's sent word "Six" as "Burger". Date: Fri Oct 22 2021. Time: 05:01:17
+The client translated word "Seven". Date: Fri Oct 22 2021. Time: 05:01:20
+The server translated the client's sent word "Seven" as "Milk". Date: Fri Oct 22 2021. Time: 05:01:20
+The client translated word "Eight". Date: Fri Oct 22 2021. Time: 05:01:24
+The server translated the client's sent word "Eight" as "Bread". Date: Fri Oct 22 2021. Time: 05:01:24
+The client translated word "Nine". Date: Fri Oct 22 2021. Time: 05:01:27
+The server translated the client's sent word "Nine" as "Cacao". Date: Fri Oct 22 2021. Time: 05:01:27
+The client translated word "Ten". Date: Fri Oct 22 2021. Time: 05:01:31
+The server translated the client's sent word "Ten" as "Watermelon". Date: Fri Oct 22 2021. Time: 05:01:31
+The client translated word "Eleven". Date: Fri Oct 22 2021. Time: 05:01:36
+The server translated the client's sent word "Eleven" as "Juice". Date: Fri Oct 22 2021. Time: 05:01:36
+The client translated word "Twelve". Date: Fri Oct 22 2021. Time: 05:01:40
+The server translated the client's sent word "Twelve" as "Strawberry". Date: Fri Oct 22 2021. Time: 05:01:40
+The client translated word "Thirteen". Date: Fri Oct 22 2021. Time: 05:01:44
+The server translated the client's sent word "Thirteen" as "Tea". Date: Fri Oct 22 2021. Time: 05:01:44
+The client translated word "Fourteen". Date: Fri Oct 22 2021. Time: 05:01:49
+The server translated the client's sent word "Fourteen" as "Soup". Date: Fri Oct 22 2021. Time: 05:01:49
+The client translated word "Fiveteen". Date: Fri Oct 22 2021. Time: 05:01:56
+The server translated the client's sent word "Fiveteen" as "Cream". Date: Fri Oct 22 2021. Time: 05:01:56
+The client has been disconnected. The server has been disabled. Date: Fri Oct 22 2021. Time: 05:01:58
+The server's work has been stopped. Date: Fri Oct 22 2021. Time: 05:02:06
+**************************************************************************************************************
+**************************************************************************************************************
+The server's work has been started. Date: Fri Oct 22 2021. Time: 09:06:29
+The server enabled successfully. The client with IP 127.0.0.1 and port 51982 has connected to the server. Date: Fri Oct 22 2021. Time: 09:07:42
+The client translated word "One". Date: Fri Oct 22 2021. Time: 09:08:12
+The server translated the client's sent word "One" as "Cake". Date: Fri Oct 22 2021. Time: 09:08:12
+The client translated word "Two". Date: Fri Oct 22 2021. Time: 09:08:17
+The server translated the client's sent word "Two" as "Banana". Date: Fri Oct 22 2021. Time: 09:08:17
+The client translated word "Twenty". Date: Fri Oct 22 2021. Time: 09:08:27
+The server translated the client's sent word "Twenty" as "Not found!". Date: Fri Oct 22 2021. Time: 09:08:27
+The client has been disconnected. The server has been disabled. Date: Fri Oct 22 2021. Time: 09:10:51
+The server's work has been stopped. Date: Fri Oct 22 2021. Time: 09:11:18
+**************************************************************************************************************
+**************************************************************************************************************
+The server's work has been started. Date: Fri Oct 22 2021. Time: 09:11:25
+The server enabled successfully. The client with IP 127.0.0.1 and port 52013 has connected to the server. Date: Fri Oct 22 2021. Time: 09:11:29
+The client has been disconnected. The server has been disabled. Date: Fri Oct 22 2021. Time: 09:11:35
+The server's work has been stopped. Date: Fri Oct 22 2021. Time: 09:11:41
+**************************************************************************************************************
+**************************************************************************************************************
+The server's work has been started. Date: Fri Oct 22 2021. Time: 09:37:49
+The server enabled successfully. The client with IP 127.0.0.1 and port 57271 has connected to the server. Date: Fri Oct 22 2021. Time: 09:38:08
+The client translated word "One". Date: Fri Oct 22 2021. Time: 09:38:21
+The server translated the client's sent word "One" as "Cake". Date: Fri Oct 22 2021. Time: 09:38:21
+The client translated word "Two". Date: Fri Oct 22 2021. Time: 09:38:25
+The server translated the client's sent word "Two" as "Banana". Date: Fri Oct 22 2021. Time: 09:38:25
+The client translated word "Three". Date: Fri Oct 22 2021. Time: 09:38:28
+The server translated the client's sent word "Three" as "Chocolate". Date: Fri Oct 22 2021. Time: 09:38:28
+The client translated word "Four". Date: Fri Oct 22 2021. Time: 09:38:35
+The server translated the client's sent word "Four" as "Coffee". Date: Fri Oct 22 2021. Time: 09:38:35
+The client translated word "Five". Date: Fri Oct 22 2021. Time: 09:38:39
+The server translated the client's sent word "Five" as "Pizza". Date: Fri Oct 22 2021. Time: 09:38:39
+The client translated word "Six". Date: Fri Oct 22 2021. Time: 09:38:43
+The server translated the client's sent word "Six" as "Burger". Date: Fri Oct 22 2021. Time: 09:38:43
+The client translated word "Seven". Date: Fri Oct 22 2021. Time: 09:38:46
+The server translated the client's sent word "Seven" as "Milk". Date: Fri Oct 22 2021. Time: 09:38:46
+The client translated word "Eight". Date: Fri Oct 22 2021. Time: 09:38:50
+The server translated the client's sent word "Eight" as "Bread". Date: Fri Oct 22 2021. Time: 09:38:50
+The client translated word "Nine". Date: Fri Oct 22 2021. Time: 09:38:54
+The server translated the client's sent word "Nine" as "Cacao". Date: Fri Oct 22 2021. Time: 09:38:54
+The client translated word "Ten". Date: Fri Oct 22 2021. Time: 09:38:59
+The server translated the client's sent word "Ten" as "Watermelon". Date: Fri Oct 22 2021. Time: 09:38:59
+The client translated word "Eleven". Date: Fri Oct 22 2021. Time: 09:39:04
+The server translated the client's sent word "Eleven" as "Juice". Date: Fri Oct 22 2021. Time: 09:39:04
+The client translated word "Twelve". Date: Fri Oct 22 2021. Time: 09:39:10
+The server translated the client's sent word "Twelve" as "Strawberry". Date: Fri Oct 22 2021. Time: 09:39:10
+The client translated word "Thirteen". Date: Fri Oct 22 2021. Time: 09:39:19
+The server translated the client's sent word "Thirteen" as "Tea". Date: Fri Oct 22 2021. Time: 09:39:19
+The client translated word "Fourteen". Date: Fri Oct 22 2021. Time: 09:39:27
+The server translated the client's sent word "Fourteen" as "Soup". Date: Fri Oct 22 2021. Time: 09:39:27
+The client translated word "Fiveteen". Date: Fri Oct 22 2021. Time: 09:39:37
+The server translated the client's sent word "Fiveteen" as "Cream". Date: Fri Oct 22 2021. Time: 09:39:37
+The client has been disconnected. The server has been disabled. Date: Fri Oct 22 2021. Time: 09:39:45
+The server's work has been stopped. Date: Fri Oct 22 2021. Time: 09:39:55
+**************************************************************************************************************
