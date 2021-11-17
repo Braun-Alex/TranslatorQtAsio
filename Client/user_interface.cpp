@@ -19,6 +19,7 @@ QMainWindow(the_widget),ui(new Ui::User_Interface)
     ui->File->setText("C:/Users/Lamaba/Desktop/Client/Log.txt");
     ui->File->hide();
     ui->Text_to_file->hide();
+    this->setWindowTitle("Client");
     ui->Received_word->setReadOnly(true);
 }
 void User_Interface::InitiateConnection()
