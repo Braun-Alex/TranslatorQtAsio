@@ -14,6 +14,7 @@ const uint16_t entered_port):the_IP_of_the_server(entered_address),
 {
     ui->setupUi(this);
     ui->File->setText("C:/Users/Lamaba/Desktop/Server/Log.txt");
+    this->setWindowTitle("Server");  
     ui->File->hide();
     ui->Text_to_file->hide();
     ui->Information->hide();
